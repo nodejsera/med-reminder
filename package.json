@@ -1,0 +1,24 @@
+{
+  "name": "med-reminder",
+  "version": "1.0.0",
+  "description": "Add your medicine subscription and your medicine consumption and this application will send you reminders to buy medicines when your medicines are about to get over.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejsera/med-reminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejsera/med-reminder/issues"
+  },
+  "homepage": "https://github.com/nodejsera/med-reminder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
